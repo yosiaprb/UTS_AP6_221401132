@@ -2,7 +2,7 @@
 #include<Conio.h>
 void main() {
     
-    float angka, total = 0, rata;
+    string angka, total = 0, rata;
     int jumlah;
     
     Cout<< "1. Mencari Rata-rata. (jumlah angka ditentukan)" << endl;
